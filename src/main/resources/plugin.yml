@@ -1,0 +1,5 @@
+name: DscBridge
+version: '${project.version}'
+main: me.xap3y.dscbridge.Main
+api-version: '1.18'
+author: XAP3Y
